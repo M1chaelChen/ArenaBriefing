@@ -1,0 +1,21 @@
+## Interface: 120100
+## Title: Arena Briefing
+## Title-zhCN: 竞技场战术简报
+## Notes: Beginner-friendly preparation strategies for arena.
+## Notes-zhCN: 面向竞技场新手的赛前战术简报。
+## Author: Arena Briefing contributors
+## Version: 0.1.2
+## SavedVariables: ArenaBriefingDB
+## SavedVariablesPerCharacter: ArenaBriefingHistoryDB
+Locale.lua
+Data.lua
+Maps.lua
+Knowledge.lua
+Strategy.lua
+API.lua
+Inspect.lua
+Chat.lua
+History.lua
+Review.lua
+UI.lua
+Core.lua
