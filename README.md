@@ -116,4 +116,8 @@ python3 scripts/test.py
 python3 scripts/package.py
 ```
 
-If lupa is installed in a separate directory, supply `PYTHONPATH=/path/to/deps`. The ZIP contains only the addon manifest, runtime sources and README. See `docs/VALIDATION.md` for the mandatory live-client acceptance checklist and `docs/STRATEGIES.md` for strategy provenance and the future provider contract.
+If lupa is installed in a separate directory, supply `PYTHONPATH=/path/to/deps`. The ZIP contains only the addon manifest, runtime sources, README and LICENSE. See `docs/VALIDATION.md` for the mandatory live-client acceptance checklist and `docs/STRATEGIES.md` for strategy provenance and the future provider contract.
+
+## License
+
+Arena Briefing is licensed under the [MIT License](LICENSE). Referenced third-party articles and trademarks remain subject to their respective owners' rights.

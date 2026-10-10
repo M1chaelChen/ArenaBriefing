@@ -15,4 +15,5 @@ with ZipFile(output, "w", ZIP_DEFLATED) as archive:
             raise ValueError(f"Invalid manifest entry: {path}")
         archive.write(path, path.relative_to(root))
     archive.write(root / "README.md", "ArenaBriefing/README.md")
+    archive.write(root / "LICENSE", "ArenaBriefing/LICENSE")
 print(output)
